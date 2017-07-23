@@ -22,6 +22,7 @@ var douArrayNub4 = [Double]()
 douArrayNub4 = [2.1,2.2,2.3]
 
 
+
 //การเพิ่มสมาชิคให้ Array
 print("intArrayNumber2 ==> \(intArrayNumber2)")
 intArrayNumber2.append(111)
